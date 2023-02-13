@@ -1,4 +1,4 @@
-# Regular Expression (Regex)
+# Regular Expression (Regex) - RE
 
 Regular Expressions, also known as "RegEx" or "RegExp", are a powerful tool used for pattern matching in text. They provide a concise and flexible way to search, replace, and manipulate text.
 
