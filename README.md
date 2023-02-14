@@ -12,4 +12,4 @@ Some common use cases for RegEx include:
 
 => Data Extraction: RegEx can be used to extract information from large text files, such as log files, to extract important data.
 
-=> String Manipulation: RegEx can be used to manipulate strings, such as splitting them into substrings or removing specific characters.
+=> String Manipulation: RegEx can be used to manipulate strings, such as splitting them into substrings or removing specific characters..
